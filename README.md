@@ -17,35 +17,35 @@ install the APK and execute the application
 &nbsp;  
 <p align="center">
   <img src="/image/1install.png">
-</p>
+</p>  
 &nbsp;  
 * **Search**  
 Search the images with a part of the files' name or the date  
 &nbsp;  
 <p align="center">
   <img src="/image/2main.png">
-</p>
+</p>  
 &nbsp;  
 * **Image Grid**  
 You can see the images you've searched  
 &nbsp;  
 <p align="center">
   <img src="/image/3search.png">
-</p>
+</p>  
 &nbsp;  
 * **Choose pictures**  
 You can select the pictures to compress with "holding" them  
 &nbsp;  
 <p align="center">
   <img src="/image/4chosen.png">
-</p>
+</p>  
 &nbsp;  
 * **Menu**  
 As click the menu button on your phone, you can choose to compress either all pictures or the selected them  
 &nbsp;  
 <p align="center">
   <img src="/image/5menu.png">
-</p>
+</p>  
 &nbsp;  
 * **Compression**  
 After you chose, in "/Pictures/ImagePackager" the Zip file generated
@@ -53,7 +53,7 @@ After you chose, in "/Pictures/ImagePackager" the Zip file generated
 <p align="center">
   <img src="/image/6compression.png">
   <img src="/image/7result.png">
-</p>
+</p>  
 &nbsp;  
   
 ### Notification  
