@@ -13,7 +13,10 @@ You can see the output images, and compress either all or a part of them into a 
 
 ### Usage  
 * **Install**  
-install the APK.
+install the APK and execute the application  
+&nbsp;  
+![install](/image/1install.png)  
+&nbsp;  
   
 ### Notification  
 This project is finished when Android Studio appears for the first time and finally tested on Anroid 4.3(Jelly Bean),
