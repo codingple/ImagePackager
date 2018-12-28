@@ -1,0 +1,2 @@
+C:\Users\KwangMin\AndroidstudioProjects\ImagePackager\app\build\intermediates\classes\debug
+C:\Users\KwangMin\AndroidstudioProjects\ImagePackager\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-9cec2ef6f11507017510827b4d26c474e67bb6fb.jar
