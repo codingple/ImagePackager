@@ -15,7 +15,7 @@ You can see the output images, and compress either all or a part of them into a 
 * **Install**  
 install the APK and execute the application  
 &nbsp;  
-![install](/image/1install.jpg)  
+![install](/image/1install.png)  
 &nbsp;  
   
 ### Notification  
