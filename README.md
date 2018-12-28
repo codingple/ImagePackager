@@ -15,9 +15,7 @@ You can see the output images, and compress either all or a part of them into a 
 * **Install**  
 install the APK and execute the application  
 &nbsp;  
-<div class="verticalhorizontal">
-<img src="/image/1install.png"/>
-</div>  
+<img align="middle" src="/image/1install.png"/>
 &nbsp;  
   
 ### Notification  
