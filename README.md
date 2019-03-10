@@ -62,8 +62,8 @@ After you chose, in "/Pictures/ImagePackager" the Zip file generated
 &nbsp;  
   
 ### Notification  
-This project is finished when Android Studio appears for the first time and finally tested on Anroid 4.3(Jelly Bean),
-which might malfunction on your device. The following is modified from the lastest version.  
+This project is finished when Android Studio appears for the first time and most recently tested on Anroid 4.3(Jelly Bean),
+which might malfunctions on your newer device. The following is modified for using up to date Android Studio from the lastest version.  
 >androidsdk -> 19  
 >build tools -> 28.0.2  
 >gradle version -> 2.14.1  
