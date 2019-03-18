@@ -1,5 +1,5 @@
 # ImagePackager
-#### Image Packager : An Android Application Searching and Compressing Images
+#### Image Packager : An Android application searching and compressing images
 
 ### Motivation  
 For storing all images I've taken, I used to compress them and stack onto an external storage like Cloud.
